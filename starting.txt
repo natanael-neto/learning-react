@@ -1,0 +1,2 @@
+Esse arquivo serve para o commit inicial do projeto. 
+Em seguida, ele será removido para que fique apenas a estrutura do projeto corretamente.
